@@ -3,11 +3,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Tomasscattini/Tomasscattini)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Tomasscattini)](https://badges.pufler.dev) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tomas-scattini/) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tomiscattini)
 
 ## ✨ Bio
-<br/>
+<br>
 I am a full stack web developer born and raised in Argentina with a nomad soul.
 <br>
 In my past life I was a musician, but today I'm fully inmerse in the internet world.
-<br/><br/>
+<br><br>
+
 Do you want to know a little more about me? Visit my [website](https://tomiscattini.com)
 
 ## </>  Skills
