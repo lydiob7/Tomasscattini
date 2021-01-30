@@ -1,6 +1,7 @@
 [![Tomi Scattini](https://res.cloudinary.com/tomiscattini/image/upload/v1611706234/Portfolio/Asset_3_xmfakj.png)](https://www.tomiscattini.com/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Tomasscattini/Tomasscattini)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Tomasscattini)](https://badges.pufler.dev) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tomas-scattini/) [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tomiscattini)
+[![CodeWarsBadge](https://www.codewars.com/users/Tomasscattini/badges/micro)](https://www.codewars.com/users/Tomasscattini)
 
 ## ✨ Bio
 <br>
